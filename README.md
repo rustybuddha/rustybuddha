@@ -12,12 +12,14 @@
 - 😄 Pronouns: King, Master, Lord...
 - ⚡ Fun fact: ...
 -->
+<!--
 
 ### Hi, my name is Rohan :wave:
 
-> I'm a **Fullstack Web Developer** living near **Mumbai.** <br>
+> I'm a ** Developer** living near **Mumbai.** <br>
 > I write semantic **HTML**, **Sassy CSS**, and work with **JS + Frameworks**.<br>
 > I mainly use the **PERN** and **MERN** stacks.<br>
+-->
 
 <br>
 
